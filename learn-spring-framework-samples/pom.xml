@@ -10,8 +10,9 @@
 
 
     <modules>
-        <module>learn-spring-boot-1.0.x-project</module>
+        <module>learn-spring-framework-2.x</module>
     </modules>
+
 
     
 </project>
