@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>chixigua</groupId>
-    <artifactId>learn-spring-boot-1.0.x-project</artifactId>
+    <artifactId>learn-spring-framework-2.x</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <dependencies>
